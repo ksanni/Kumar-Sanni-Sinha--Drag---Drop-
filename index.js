@@ -23,7 +23,7 @@ for(list of lists){
     console.log("drop");
       
       rightBox.appendChild(selected);
-      selected.style.backgroundColor= "red";
+      selected.style.backgroundColor= "#c22323";
       showSuccessMessage();
     })
   })
