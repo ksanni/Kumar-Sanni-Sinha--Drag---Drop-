@@ -41,7 +41,7 @@ function showSuccessMessage() {
   // Hide the success message after a delay
   setTimeout(function () {
     successMessage.style.display = "none";
-  }, 2000);
+  }, 1000);
 }
 
 // Reset button click event
