@@ -55,7 +55,7 @@ btnReset.addEventListener("click", () => {
   setTimeout(function () {
     successMessage.style.display = "none";
     location.reload();
-  }, 2000);
+  }, 1000);
 
   // Clear the rightBox by emptying its HTML content
   rightBox.innerHTML = "";
